@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>AI Voice Systems in Healthcare</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <article>
+
+    <h1>How AI Voice Systems Are Transforming Patient Access in Healthcare</h1>
+
+    <p>
+      Healthcare systems are under increasing pressure to manage patient communication efficiently, especially for calls, scheduling, and follow-ups.
+    </p>
+
+    <h2>Patient Access Challenges</h2>
+
+    <ul>
+      <li>Missed patient calls</li>
+      <li>Long wait times</li>
+      <li>Front desk overload</li>
+      <li>Scheduling delays</li>
+    </ul>
+
+    <h2>AI-Powered Solution</h2>
+
+    <p>
+      AI voice systems help automate patient interactions and improve routing, scheduling, and response time.
+    </p>
+
+    <p>
+      One key capability is 
+      <a href="https://curoai.com/en/solutions/appointment-scheduling" target="_blank">
+        AI appointment scheduling for healthcare
+      </a>
+      which allows patients to book and manage appointments without manual support.
+    </p>
+
+    <h2>Benefits</h2>
+
+    <ul>
+      <li>24/7 availability</li>
+      <li>Reduced staff workload</li>
+      <li>Faster patient response</li>
+      <li>Better healthcare experience</li>
+    </ul>
+
+    <footer>
+      <p>Published for educational purposes on healthcare AI systems.</p>
+    </footer>
+
+  </article>
+
+</body>
+</html>
